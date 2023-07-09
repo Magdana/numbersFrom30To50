@@ -1,0 +1,15 @@
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\bin\Debug\net6.0\numbersFrom30To50.exe
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\bin\Debug\net6.0\numbersFrom30To50.deps.json
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\bin\Debug\net6.0\numbersFrom30To50.runtimeconfig.json
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\bin\Debug\net6.0\numbersFrom30To50.dll
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\bin\Debug\net6.0\numbersFrom30To50.pdb
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\obj\Debug\net6.0\numbersFrom30To50.csproj.AssemblyReference.cache
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\obj\Debug\net6.0\numbersFrom30To50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\obj\Debug\net6.0\numbersFrom30To50.AssemblyInfoInputs.cache
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\obj\Debug\net6.0\numbersFrom30To50.AssemblyInfo.cs
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\obj\Debug\net6.0\numbersFrom30To50.csproj.CoreCompileInputs.cache
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\obj\Debug\net6.0\numbersFrom30To50.dll
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\obj\Debug\net6.0\refint\numbersFrom30To50.dll
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\obj\Debug\net6.0\numbersFrom30To50.pdb
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\obj\Debug\net6.0\numbersFrom30To50.genruntimeconfig.cache
+C:\Users\magda\source\repos\numbersFrom30To50\numbersFrom30To50\obj\Debug\net6.0\ref\numbersFrom30To50.dll
